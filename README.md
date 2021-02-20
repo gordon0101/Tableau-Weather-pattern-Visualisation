@@ -12,7 +12,7 @@ From this dashboard we would be able to see the temporal trends from 1960-2010.
 
 ## Storyboard - Suggestions on Insurance premium Calculations
 
-Made a short presentation on how i would suggest "ABC insurance" to calculate their premiums for different areas based on weather stations. I used the mean data of temperature, sunshine duration, and precipitation to identify which station would be perfect for crops or which station would be bad for crops. Discounts or increased premiums would be suggested base on these temporal trend.
+Made a presentation to "ABC insurance" on how they could calculate their premiums based on areas with differing weather trends. I used the mean data of temperature, sunshine duration, and precipitation to identify which station would be perfect for crops or which station would be bad for crops. Discounts or increased premiums would be suggested base on these temporal trend.
 
 ![Screenshot2](https://github.com/gordon0101/Tableau-Weather-pattern-Visualisation/blob/main/storyboard.png)
 
