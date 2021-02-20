@@ -4,4 +4,4 @@ Analysed weather and temporal trends from 1940-2010 and displayed the data as an
 
 ## Dashboard's customizability
 
-[img](https://imgur.com/LVvTqGg)
+![Screenshot](https://imgur.com/LVvTqGg)
